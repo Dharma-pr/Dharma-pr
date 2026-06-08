@@ -49,8 +49,6 @@ A passionate developer focused on solving real-world problems through technology
 
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/COMSOL-003A70?style=for-the-badge"/>
