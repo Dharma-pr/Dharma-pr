@@ -4,6 +4,8 @@
 A passionate developer focused on solving real-world problems through technology
 </h3>
 
+<hr>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
@@ -22,11 +24,15 @@ A passionate developer focused on solving real-world problems through technology
 
 </p>
 
+<br>
+
 <h3 align="left">Programming Languages:</h3>
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,python,html,css,c,cpp" />
 </p>
+
+<br>
 
 <h3 align="left">Frameworks & Libraries:</h3>
 
@@ -34,12 +40,20 @@ A passionate developer focused on solving real-world problems through technology
 <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
 </p>
 
+<br>
+
 <h3 align="left">Databases:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+alt="SQL Server" width="48" height="48"/>
+
 </p>
+
+<br>
 
 <h3 align="left">Tools & Platforms:</h3>
 
@@ -47,16 +61,28 @@ A passionate developer focused on solving real-world problems through technology
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
 
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg"
+alt="Canva" width="48" height="48"/>
 
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg"
+alt="Cisco Packet Tracer" width="48" height="48"/>
 
-<img src="https://img.shields.io/badge/COMSOL-003A70?style=for-the-badge"/>
+<!-- Upload COMSOL logo to assets/comsol.png -->
+<img src="https://raw.githubusercontent.com/Dharma-pr/Dharma-pr/main/assets/comsol.png"
+alt="COMSOL" width="48" height="48"/>
+
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg"
+alt="MS Office" width="48" height="48"/>
 
 </p>
+
+<br>
 
 <h3 align="left">API's:</h3>
 
 <p align="left">
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png"
+alt="REST API" width="48" height="48"/>
+
 </p>
