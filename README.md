@@ -84,21 +84,33 @@
 
 </p>
 
+<h3 align="left">Languages:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,react,nodejs,spring,c,cpp,mysql" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
 <h3 align="left">Tools & Platforms:</h3>
 
 <p align="left">
-🛠️ GitHub &nbsp;
-🎨 Canva &nbsp;
-📊 MS Office &nbsp;
-🤖 AI Tools &nbsp;
-💻 VS Code &nbsp;
-⚙️ COMSOL &nbsp;
-🌐 Cisco Packet Tracer &nbsp;
-📦 Maven
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMSOL-003A70?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge"/>
 </p>
 
 <h3 align="left">API's:</h3>
 
 <p align="left">
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
