@@ -46,10 +46,17 @@ A passionate developer focused on solving real-world problems through technology
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+</a>
 
+<a href="https://www.microsoft.com/en-us/sql-server">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-alt="SQL Server" width="48" height="48"/>
+alt="SQL Server"
+width="48"
+height="48"
+style="vertical-align:middle;" />
+</a>
 
 </p>
 
@@ -59,20 +66,53 @@ alt="SQL Server" width="48" height="48"/>
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg"
-alt="Canva" width="48" height="48"/>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/cisco.svg"
-alt="Cisco Packet Tracer" width="48" height="48"/>
+<a href="https://code.visualstudio.com/">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
+</a>
 
-<!-- Upload COMSOL logo to assets/comsol.png -->
+<a href="https://maven.apache.org/">
+<img src="https://skillicons.dev/icons?i=maven" alt="Maven"/>
+</a>
+
+<a href="https://www.canva.com/">
+<img src="https://cdn.simpleicons.org/canva/00C4CC"
+alt="Canva"
+width="48"
+height="48"
+style="vertical-align:middle;" />
+</a>
+
+<a href="https://www.netacad.com/courses/packet-tracer">
+<img src="https://cdn.simpleicons.org/cisco/1BA0D7"
+alt="Cisco Packet Tracer"
+width="48"
+height="48"
+style="vertical-align:middle;" />
+</a>
+
+<a href="#">
 <img src="https://raw.githubusercontent.com/Dharma-pr/Dharma-pr/main/assets/comsol.png"
-alt="COMSOL" width="48" height="48"/>
+alt="COMSOL"
+width="48"
+height="48"
+style="vertical-align:middle;" />
+</a>
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoffice.svg"
-alt="MS Office" width="48" height="48"/>
+<a href="https://www.microsoft.com/microsoft-365">
+<img src="https://cdn.simpleicons.org/microsoftoffice/D83B01"
+alt="Microsoft Office"
+width="48"
+height="48"
+style="vertical-align:middle;" />
+</a>
 
 </p>
 
@@ -82,7 +122,37 @@ alt="MS Office" width="48" height="48"/>
 
 <p align="left">
 
+<a href="https://restfulapi.net/">
 <img src="https://cdn-icons-png.flaticon.com/512/2164/2164832.png"
-alt="REST API" width="48" height="48"/>
+alt="REST API"
+width="48"
+height="48"
+style="vertical-align:middle;" />
+</a>
 
+</p>
+
+<br>
+
+<h3 align="left">GitHub Activity:</h3>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharma-pr&theme=github-compact&hide_border=true" />
+</p>
+
+<br>
+
+<h3 align="left">Achievements:</h3>
+
+🏆 9.83 CGPA<br>
+💻 Solved 500+ Coding Problems<br>
+🚀 Hackathon Participant & Project Developer<br>
+📚 B.Tech Student (AI & ML Enthusiast)
+
+<br><br>
+
+<h3 align="left">Profile Views:</h3>
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Dharma-pr&label=Profile%20views&color=0e75b6&style=flat" alt="Dharma-pr" />
 </p>
