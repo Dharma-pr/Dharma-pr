@@ -47,13 +47,11 @@ A passionate developer focused on solving real-world problems through technology
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,maven" />
 
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
-<img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" width="48" height="48" alt="MS Office"/>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 
-<img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="AI Tools"/>
-
-<img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="48" height="48" alt="Cisco Packet Tracer"/>
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/COMSOL-003A70?style=for-the-badge"/>
 
@@ -63,18 +61,4 @@ A passionate developer focused on solving real-world problems through technology
 
 <p align="left">
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dharma-pr&show_icons=true&theme=tokyonight" alt="Dharma-pr" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharma-pr&theme=tokyonight" alt="Dharma-pr" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharma-pr&layout=compact&theme=tokyonight" alt="Dharma-pr" />
 </p>
