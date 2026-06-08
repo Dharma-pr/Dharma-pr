@@ -81,15 +81,6 @@ style="vertical-align:middle;" />
 <a href="https://maven.apache.org/">
 <img src="https://skillicons.dev/icons?i=maven" alt="Maven"/>
 </a>
-
-<a href="https://www.canva.com/">
-<img src="https://cdn.simpleicons.org/canva/00C4CC"
-alt="Canva"
-width="48"
-height="48"
-style="vertical-align:middle;" />
-</a>
-
 <a href="https://www.netacad.com/courses/packet-tracer">
 <img src="https://cdn.simpleicons.org/cisco/1BA0D7"
 alt="Cisco Packet Tracer"
@@ -97,25 +88,7 @@ width="48"
 height="48"
 style="vertical-align:middle;" />
 </a>
-
-<a href="#">
-<img src="https://raw.githubusercontent.com/Dharma-pr/Dharma-pr/main/assets/comsol.png"
-alt="COMSOL"
-width="48"
-height="48"
-style="vertical-align:middle;" />
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365">
-<img src="https://cdn.simpleicons.org/microsoftoffice/D83B01"
-alt="Microsoft Office"
-width="48"
-height="48"
-style="vertical-align:middle;" />
-</a>
-
 </p>
-
 <br>
 
 <h3 align="left">API's:</h3>
@@ -129,17 +102,13 @@ width="48"
 height="48"
 style="vertical-align:middle;" />
 </a>
-
 </p>
-
 <br>
-
 <h3 align="left">GitHub Activity:</h3>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharma-pr&theme=github-compact&hide_border=true" />
 </p>
-
 <br>
 
 <h3 align="left">Achievements:</h3>
@@ -150,9 +119,3 @@ style="vertical-align:middle;" />
 📚 B.Tech Student (AI & ML Enthusiast)
 
 <br><br>
-
-<h3 align="left">Profile Views:</h3>
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Dharma-pr&label=Profile%20views&color=0e75b6&style=flat" alt="Dharma-pr" />
-</p>
