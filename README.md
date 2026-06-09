@@ -47,13 +47,6 @@ A passionate developer focused on solving real-world problems through technology
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dharma-pr&theme=github-compact&hide_border=true" />
 </p>
 
-<h3 align="left">Achievements:</h3>
-
-🏆 9.83 CGPA<br>
-💻 Solved 500+ Coding Problems<br>
-🚀 Hackathon Participant & Project Developer<br>
-📚 B.Tech Student (AI & ML Enthusiast)
-
 <h3 align="left">Profile Views:</h3>
 
 <p align="left">
